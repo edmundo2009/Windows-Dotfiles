@@ -4,8 +4,8 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = Andre Mossi
-	email = mossiroberto0392@gmail.com
+	name = edmundo2009
+	email = daimakaveli@gmail.com
 [alias]
     d = diff
     co = checkout

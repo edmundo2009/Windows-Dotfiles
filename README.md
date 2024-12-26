@@ -18,11 +18,11 @@
 
 ## Navigation ✈️
 
-- [Navigate To Powershell Dotfiles <-](https://github.com/AndreM222/PowerShell) (For Detailed Setup)
+- [Navigate To Powershell Dotfiles <-](https://github.com/edmundo2009/PowerShell) (For Detailed Setup)
 
-- [Navigate To Neovim Dotfiles <-](https://github.com/AndreM222/nvim) (For Detailed Setup)
+- [Navigate To Neovim Dotfiles <-](https://github.com/edmundo2009/nvim) (For Detailed Setup)
 
-- [Navigate To Dotfile Automizer <-](https://github.com/AndreM222/Dotfile-Automizer) (For Detailed Setup)
+- [Navigate To Dotfile Automizer <-](https://github.com/edmundo2009/Dotfile-Automizer) (For Detailed Setup)
 
 ## Dependencies 📃
 
@@ -119,7 +119,7 @@ nvm use lts
 |__📄.gitconfig
 
 📂 $HOME/AppData/Local/Nvim
-|__📂lua/andrem222
+|__📂lua/edmundo2009
 |   |__📂 pluginDev
 |   |   |__📑 All Personal Plugin Installation and Setup Files
 |   |__📂 plugins

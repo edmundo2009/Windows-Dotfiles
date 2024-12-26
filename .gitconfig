@@ -4,7 +4,7 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = Andre Mossi
+	name = edmundo2009
 [alias]
     d = diff
     co = checkout

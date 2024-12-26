@@ -1,9 +1,9 @@
 [submodule "nvim"]
 	path = nvim
-	url = https://github.com/AndreM222/nvim
+	url = https://github.com/edmundo2009/nvim
 [submodule "PowerShell"]
 	path = PowerShell
-	url = https://github.com/AndreM222/PowerShell
+	url = https://github.com/edmundo2009/PowerShell
 [submodule "Dotfile-Automizer"]
 	path = Dotfile-Automizer
-	url = https://github.com/AndreM222/Dotfile-Automizer
+	url = https://github.com/edmundo2009/Dotfile-Automizer
