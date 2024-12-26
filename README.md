@@ -77,21 +77,13 @@ Opacity Config: 80
 Font Size: 9
 ```
 
-## Font 🖌️
+## Font - [FiraCode-NF-Mono](https://www.nerdfonts.com/font-downloads) - Font
 
-- [FiraCode-NF-Mono](https://www.nerdfonts.com/font-downloads) - Font
+## Theme - [Dracula](https://draculatheme.com/windows-terminal) - Dracula Color Theme
 
-## Theme 🎭
+## Terminal - [Windows terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) - Terminal
 
-- [Dracula](https://draculatheme.com/windows-terminal) - Dracula Color Theme
-
-## Terminal 📟
-
-- [Windows terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) - Terminal
-
-## Shell 🛡️
-
-- [PowerShell](https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=US) - Shell
+## Shell - [PowerShell](https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=US) - Shell
 
 ## Setup ⚒️
 
