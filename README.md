@@ -1,10 +1,10 @@
 # Windows Dotfiles
 <p align='center'>
 
-![Preview IMG 1](doc/Terminal-Preview_1.png)
-![Preview IMG 2](doc/Terminal-Preview_2.png)
-![Preview IMG 3](doc/Terminal-Preview_3.png)
-![Preview IMG 4](doc/Terminal-Preview_4.png)
+<!-- ![Preview IMG 1](doc/Terminal-Preview_1.png) -->
+<!-- ![Preview IMG 2](doc/Terminal-Preview_2.png) -->
+<!-- ![Preview IMG 3](doc/Terminal-Preview_3.png) -->
+<!-- ![Preview IMG 4](doc/Terminal-Preview_4.png) -->
 
 </p>
 
@@ -77,13 +77,13 @@ Opacity Config: 80
 Font Size: 9
 ```
 
-## Font - [FiraCode-NF-Mono](https://www.nerdfonts.com/font-downloads) - Font
+Font - [FiraCode-NF-Mono](https://www.nerdfonts.com/font-downloads) - Font
 
-## Theme - [Dracula](https://draculatheme.com/windows-terminal) - Dracula Color Theme
+Theme - [Dracula](https://draculatheme.com/windows-terminal) - Dracula Color Theme
 
-## Terminal - [Windows terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) - Terminal
+Terminal - [Windows terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701) - Terminal
 
-## Shell - [PowerShell](https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=US) - Shell
+Shell - [PowerShell](https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=US) - Shell
 
 ## Setup ⚒️
 
